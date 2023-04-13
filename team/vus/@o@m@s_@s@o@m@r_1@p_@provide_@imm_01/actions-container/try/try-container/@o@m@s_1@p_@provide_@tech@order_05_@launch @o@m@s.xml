@@ -1,0 +1,15 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_1P_Provide_TechOrder_05_Launch OMS" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="cb1312d1-2cd2-420b-b6c8-1ac79e3d60bf" weightsEnabled="false">
+    <weighted-embedded-action uid="8cf125b4-25df-4aee-b0c9-508b58d8f6f6"/>
+    <weighted-embedded-action uid="973d49d8-04a4-42ac-8a92-a5c4b235e2f1"/>
+    <weighted-embedded-action uid="95b5fedd-987f-4f5b-8c9f-89ee8b564e29"/>
+    <weighted-embedded-action uid="275c96dd-d275-4b4d-88f1-4eb570121a9a"/>
+    <weighted-embedded-action uid="efd3c219-9006-4b0a-8de9-58a4f9b72e14"/>
+    <weighted-embedded-action uid="7211c2fc-def4-4ab4-a9b5-153ff726c559"/>
+    <weighted-embedded-action uid="e297d476-99dc-4c3b-9830-707c58d752c3"/>
+    <weighted-embedded-action uid="3b2ab11d-1597-4762-b3e1-5c3f321f86de"/>
+    <weighted-embedded-action uid="74e0b88c-0844-47cc-ac8a-6377f681ccef"/>
+    <weighted-embedded-action uid="af3f8841-098f-4387-9879-3d857bc701aa"/>
+</basic-logical-action-container>

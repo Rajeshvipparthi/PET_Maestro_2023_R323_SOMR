@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="OMS_SOMR_2P_TECH_SerialNumber" order="1" pattern="milliseconds since the UNIX epoch" policy="1" range="2" uid="07e6e64b-4d90-417a-ae0f-876c5302b1fc" whenOutOfValues="CYCLE_VALUES"/>

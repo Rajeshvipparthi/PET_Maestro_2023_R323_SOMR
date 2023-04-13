@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Tripleplay_Change_Luanch_01" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="dc424d86-5cd3-4388-bf20-9a264c480f77" weightsEnabled="false">
+    <weighted-embedded-action uid="e8002ddd-c1af-4020-aa33-08760ce48d18"/>
+    <weighted-embedded-action uid="b0b44728-d8af-4bf3-bd63-fa6d7bddc74f"/>
+</basic-logical-action-container>

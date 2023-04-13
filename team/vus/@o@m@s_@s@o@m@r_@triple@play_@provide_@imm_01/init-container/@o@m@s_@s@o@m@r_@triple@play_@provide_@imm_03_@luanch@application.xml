@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_TriplePlay_Provide_Imm_03_LuanchApplication"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="f67590d4-7478-419d-b6ba-19f054d6899c" weightsEnabled="false">
+    <weighted-embedded-action uid="cac09340-79d9-4a26-bc97-3ddc2b250e3b"/>
+    <weighted-embedded-action uid="4d6b6a15-e519-473e-a6be-fa6f82ad1c82"/>
+    <weighted-embedded-action uid="c2024593-392b-4ba5-8352-7198e6d516a1"/>
+    <weighted-embedded-action uid="b4c036a7-645f-4383-82b2-3f7bc8f4964b"/>
+    <weighted-embedded-action uid="e2899f5e-6c7d-446c-9164-1f638571f4af"/>
+    <weighted-embedded-action uid="8b8deb42-12f2-4d53-985f-90cc00efed8c"/>
+</basic-logical-action-container>

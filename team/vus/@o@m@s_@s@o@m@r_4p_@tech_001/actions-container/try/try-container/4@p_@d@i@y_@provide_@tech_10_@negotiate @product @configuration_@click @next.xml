@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="4P_DIY_Provide_Tech_10_Negotiate Product Configuration_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="f4f674c6-38d4-470a-8260-b6e3c620e0ef" weightsEnabled="false">
+    <weighted-embedded-action uid="586736f0-e0c7-4cbf-8aeb-9edc6c8ee527"/>
+    <weighted-embedded-action uid="52948f8c-0582-40c0-bad7-7d4b6c0f98b3"/>
+    <weighted-embedded-action uid="5bef1f3c-598c-4c8d-a6b9-1648e67c0ba1"/>
+</basic-logical-action-container>

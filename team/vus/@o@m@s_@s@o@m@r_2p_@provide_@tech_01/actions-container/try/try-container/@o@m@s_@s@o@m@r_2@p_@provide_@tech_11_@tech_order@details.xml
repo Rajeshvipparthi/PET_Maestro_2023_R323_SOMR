@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_2P_Provide_Tech_11_Tech_orderDetails" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="a9f296a2-56ff-4dcc-9a91-0564f6714fd0" weightsEnabled="false">
+    <weighted-embedded-action uid="a6d66bad-bb8b-4af6-888d-389490f722ce"/>
+    <weighted-embedded-action uid="8c4f2a92-4ce2-4192-9781-956b1576a2cd"/>
+</basic-logical-action-container>

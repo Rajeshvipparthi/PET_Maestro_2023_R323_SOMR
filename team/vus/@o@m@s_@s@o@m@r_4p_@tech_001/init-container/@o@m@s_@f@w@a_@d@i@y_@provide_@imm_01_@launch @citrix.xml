@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_FWA_DIY_Provide_Imm_01_Launch Citrix" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="6d5d7379-5a66-4862-9ef5-654478d040fa" weightsEnabled="false">
+    <weighted-embedded-action uid="b61102de-3c58-44f5-8c6d-d0bc856010dc"/>
+    <weighted-embedded-action uid="62e53f28-4fa0-4681-891b-61e1c6280f6d"/>
+    <weighted-embedded-action uid="04cc5eea-c1a8-48c7-a316-494fab704e60"/>
+    <weighted-embedded-action uid="f72d98ac-d55f-4961-97a5-19ca85aeffe5"/>
+</basic-logical-action-container>

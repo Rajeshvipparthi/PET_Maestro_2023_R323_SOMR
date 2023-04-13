@@ -1,0 +1,3 @@
+<variable-constant constantValue="60000" name="citrixWaitTimeoutInMs-UserPath_3" order="1" policy="1" range="2" uid="fb0d57a1-1b46-415a-a844-30e3589ae1e3" whenOutOfValues="CYCLE_VALUES">
+<description>Maximum timeout in milliseconds to wait on Citrix action WindowWait, ScreenshotWait and TextWait for user path UserPath_3.</description>
+</variable-constant>

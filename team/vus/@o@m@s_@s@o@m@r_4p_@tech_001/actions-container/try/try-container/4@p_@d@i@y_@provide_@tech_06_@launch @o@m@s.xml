@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="4P_DIY_Provide_Tech_06_Launch OMS" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="a5c7f1c9-fbc0-48c2-baf2-8ea254557659" weightsEnabled="false">
+    <weighted-embedded-action uid="910acac5-1ec4-4244-babc-f7a784b5a1c0"/>
+    <weighted-embedded-action uid="3336bbd8-9bbe-453a-ba9c-17b6ed906ef4"/>
+</basic-logical-action-container>

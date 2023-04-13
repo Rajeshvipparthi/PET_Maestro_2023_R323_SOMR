@@ -1,0 +1,12 @@
+<custom-action actionType="CitrixKeyType" isHit="false"
+    name="KeyType - DOWN_ARROW_141" uid="215e2bfb-3d55-4d67-963c-1b6295903380">
+    <description>This Action sends a key with an optional list of modifiers.
+
+Possible parameters are:&#xd;
+- keyCode (required): KeyCode from the following: [LEFT_ARROW, UP_ARROW, RIGHT_ARROW, DOWN_ARROW, ADD, MULTIPLY, SUBSTRACT, DIVIDE, ALT, BACKSPACE, SPACE, CAPSLOCK, CTRL, DEL, END, ENTER, ESC, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, HOME, INS, NUMLOCK, PAGE_DOWN, PAGE_UP, PRINTSCREEN, SCROLL, SHIFT, TAB, NUMPAD_0, NUMPAD_1, NUMPAD_2, NUMPAD_3, NUMPAD_4, NUMPAD_5, NUMPAD_6, NUMPAD_7, NUMPAD_8, NUMPAD_9, WINDOW_LEFT, WINDOW_RIGHT].&#xd;
+- modifiers (optional): Comma separated modifiers from the following: [ALT, CTRL, SHIFT, EXTENDED].</description>
+    <custom-action-parameter name="keyCode" type="TEXT" value="DOWN_ARROW"/>
+    <custom-action-parameter name="modifiers" type="TEXT" value=""/>
+    <responsePageFileDescription>recorded-responses/res_2b1bc7af-fa3a-4895-aa77-14e82086627a</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@o@m@s_@s@o@m@r_4p_@tech_001/%resources%/recorded-screenshots/sc_48cc8d84-f951-48c1-bcb0-b315d078172d.png</screenshotFileDescription>
+</custom-action>

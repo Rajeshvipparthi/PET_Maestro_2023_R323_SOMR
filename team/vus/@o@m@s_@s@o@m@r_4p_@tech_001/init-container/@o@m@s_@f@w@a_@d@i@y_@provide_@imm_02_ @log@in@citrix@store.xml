@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_FWA_DIY_Provide_Imm_02_ LogInCitrixStore" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="7e0b079e-9b62-46ea-8470-293e9c31e75d" weightsEnabled="false">
+    <weighted-embedded-action uid="60a8e253-f320-4338-ace3-f419cebc2a7f"/>
+</basic-logical-action-container>

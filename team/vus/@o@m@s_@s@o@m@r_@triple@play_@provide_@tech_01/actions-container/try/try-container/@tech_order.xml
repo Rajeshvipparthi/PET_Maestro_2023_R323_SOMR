@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Tech_order" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="356750c0-2c51-4f3d-9276-5096ff557350" weightsEnabled="false">
+    <weighted-embedded-action uid="51b80e93-f683-46e4-8daa-f4142199273f"/>
+    <weighted-embedded-action uid="6b4ba06b-b6da-4457-aaa9-b230e5b72b25"/>
+</basic-logical-action-container>

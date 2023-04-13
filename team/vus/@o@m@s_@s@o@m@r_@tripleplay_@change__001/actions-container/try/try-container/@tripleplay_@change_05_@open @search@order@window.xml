@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Tripleplay_Change_05_Open SearchOrderWindow" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="67654043-505b-47b3-8b5b-a5c85b8aaf9f" weightsEnabled="false">
+    <weighted-embedded-action uid="8c1befac-ee21-4c0f-a3e5-14891657173c"/>
+    <weighted-embedded-action uid="b4000f0a-38a7-4061-97b6-e7c4fcf7f30c"/>
+</basic-logical-action-container>

@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="Select_Petmestro" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="d18f8d76-a1b9-450c-9f7c-646acb625495" weightsEnabled="false">
+    <weighted-embedded-action uid="3b2a53a6-676f-4efd-b063-888279a83aa1"/>
+    <weighted-embedded-action uid="8ad19266-a4df-43cf-a351-1848a2cba757"/>
+    <weighted-embedded-action uid="1e3a4fb2-32f8-4435-b0c7-69b41d4bad6f"/>
+</basic-logical-action-container>

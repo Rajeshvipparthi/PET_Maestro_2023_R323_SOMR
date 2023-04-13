@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_2P_Provide_Tech_05_Find_caller" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="f355a7cd-81b2-4073-9984-cc95939e66e5" weightsEnabled="false">
+    <weighted-embedded-action uid="6d84c8c2-67a3-4470-9440-c232ae9232ed"/>
+    <weighted-embedded-action uid="c04b57c7-5937-415f-976d-d91db7320c8c"/>
+</basic-logical-action-container>

@@ -1,0 +1,39 @@
+<lg-host browserBasedSupport="true" citrixSupport="false"
+    hostname="LDCPETNEOGEN12:7100" loadWeight="1" sapSupport="false"
+    standalone="false" supportWANEmulation="true"
+    uid="ffbb7df0-a1a4-4e8f-a2b4-dee2f7e409a6" version="9.0.0;build=20220826-66">
+    <!--****** LG NETWORK INTERFACES ******-->
+    <lg-networkiface description="Juniper Networks Virtual Adapter"
+        enabled="false" isLoopBack="false" name="eth6">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="ldcpetneogen12.rci.rogers.ca">
+            <ip value="172.30.28.158"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="2607:f798:f:2011:0:0:0:a6">
+            <ip value="2607:f798:f:2011:0:0:0:a6"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:3f80:fb1a:a853:35cb%eth6">
+            <ip value="fe80:0:0:0:3f80:fb1a:a853:35cb%eth6"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Software Loopback Interface 1"
+        enabled="false" isLoopBack="true" name="lo">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="127.0.0.1">
+            <ip value="127.0.0.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="0:0:0:0:0:0:0:1">
+            <ip value="0:0:0:0:0:0:0:1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="vmxnet3 Ethernet Adapter"
+        enabled="false" isLoopBack="false" name="eth3">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="ldcpetneogen12.rci.rogers.ca">
+            <ip value="10.61.124.132"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+</lg-host>

@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_TriplePlay_Provide_Tech_02_ LogInCitrixStore"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="53cda978-4aec-4bf3-8724-aad1c3092375" weightsEnabled="false">
+    <weighted-embedded-action uid="729cdf3e-9718-41f3-933a-c1a716da2adf"/>
+</basic-logical-action-container>

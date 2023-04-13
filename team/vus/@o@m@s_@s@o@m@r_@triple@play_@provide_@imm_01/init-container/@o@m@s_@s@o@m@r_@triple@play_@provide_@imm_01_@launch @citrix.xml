@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_TriplePlay_Provide_Imm_01_Launch Citrix"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="459595ce-d475-41ed-8eed-db5ad9b5f43b" weightsEnabled="false">
+    <weighted-embedded-action uid="761e52e1-9d81-40b0-9d9b-a6bc26df0f42"/>
+    <weighted-embedded-action uid="aba9d584-29a8-403c-820c-31c3298a79c2"/>
+    <weighted-embedded-action uid="13a716ce-a1f0-4437-83b9-88ac234cf463"/>
+    <weighted-embedded-action uid="72c19fae-f252-4011-9d0b-d6204a03c871"/>
+</basic-logical-action-container>

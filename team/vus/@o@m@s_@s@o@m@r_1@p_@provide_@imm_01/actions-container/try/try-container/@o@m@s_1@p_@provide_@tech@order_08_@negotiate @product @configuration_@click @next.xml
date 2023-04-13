@@ -1,0 +1,16 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_1P_Provide_TechOrder_08_Negotiate Product Configuration_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="ad377d77-b1fc-42ed-a64d-5acd8451d71c" weightsEnabled="false">
+    <weighted-embedded-action uid="d0346e0e-8c84-42d8-be6f-53e78ba40293"/>
+    <weighted-embedded-action uid="fd18e7b4-d048-4a08-8c73-d1d407f46f6d"/>
+    <weighted-embedded-action uid="1ef229f3-c8da-4be2-8cbd-4b7f58944e0e"/>
+    <weighted-embedded-action uid="b34d0bdc-743d-4e38-8500-c68ad052e19c"/>
+    <weighted-embedded-action uid="4d3dd59f-9b6a-4767-a7b3-29cc6832fc3e"/>
+    <weighted-embedded-action uid="fdb4e51e-16ea-4a05-95d8-9c457991462f"/>
+    <weighted-embedded-action uid="0a1fea87-5a37-4787-84d4-385b3e1ae45f"/>
+    <weighted-embedded-action uid="5e6abb35-350d-4833-b6a4-3a593800ac18"/>
+    <weighted-embedded-action uid="4b780633-a5f2-44cf-9082-a869dde0a558"/>
+    <weighted-embedded-action uid="11e873ea-7ba2-4b62-8907-c13b74565369"/>
+</basic-logical-action-container>

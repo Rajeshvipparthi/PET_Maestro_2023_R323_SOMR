@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_2P_Provide_Tech_1_Launch Citrix" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="8ecf4945-aad9-41c4-bb51-9c9dccbfab92" weightsEnabled="false">
+    <weighted-embedded-action uid="6875a3ca-ae1e-4a90-b90e-33dce2f94cb6"/>
+    <weighted-embedded-action uid="143515d3-1f17-4d23-8883-acdcd506cc65"/>
+    <weighted-embedded-action uid="ad694d23-c136-4271-beaa-e870401b85c0"/>
+    <weighted-embedded-action uid="7af81b40-cd02-43b6-9541-1165c1112235"/>
+</basic-logical-action-container>

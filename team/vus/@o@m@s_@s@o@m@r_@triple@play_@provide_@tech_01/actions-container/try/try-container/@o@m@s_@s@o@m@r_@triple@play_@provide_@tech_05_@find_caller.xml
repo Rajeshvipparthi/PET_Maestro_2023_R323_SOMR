@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_TriplePlay_Provide_Tech_05_Find_caller" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="e86b9638-d7e3-4064-97f3-adaf21730a21" weightsEnabled="false">
+    <weighted-embedded-action uid="c7b600d6-6ae2-4b73-b1f0-d80a1791e322"/>
+    <weighted-embedded-action uid="ffc55799-d520-4ffa-b3fd-d7c39d2358d3"/>
+</basic-logical-action-container>

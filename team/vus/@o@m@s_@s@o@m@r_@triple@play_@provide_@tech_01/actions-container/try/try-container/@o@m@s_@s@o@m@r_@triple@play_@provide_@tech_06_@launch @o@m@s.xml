@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_TriplePlay_Provide_Tech_06_Launch OMS" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="c57046ca-fa9f-4cde-8e8d-9e5512ed0f68" weightsEnabled="false">
+    <weighted-embedded-action uid="2a4b0945-8579-4926-8a05-b7ef5998d669"/>
+    <weighted-embedded-action uid="e8a3f4b1-78c7-42d3-b888-88430242892b"/>
+</basic-logical-action-container>

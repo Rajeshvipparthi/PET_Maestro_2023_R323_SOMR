@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_TriplePlay_Provide_Imm_07_Installation" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="c9bff1b7-c64a-4954-8a1d-adfdacbc4962" weightsEnabled="false">
+    <weighted-embedded-action uid="e7c36413-08f9-4999-af36-a1a09e67d050"/>
+    <weighted-embedded-action uid="db42fc9b-91f0-48c5-a582-157dcbfd63a6"/>
+</basic-logical-action-container>

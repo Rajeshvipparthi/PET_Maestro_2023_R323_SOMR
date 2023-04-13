@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_2P_Provide_Tech_02_ LogInCitrixStore" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="5b357f45-6c37-47b8-81dd-f28781e1a78f" weightsEnabled="false">
+    <weighted-embedded-action uid="0f4189a8-e7b9-4416-b734-76051e8ace41"/>
+</basic-logical-action-container>

@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_1P_Provide_Imm_02_ LogInCitrixStore" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="b2c8bc0a-9fb9-4ff9-9eda-74c85a1a558b" weightsEnabled="false">
+    <weighted-embedded-action uid="76d677f9-0ce4-4e73-bc27-df56d77c5ed9"/>
+</basic-logical-action-container>

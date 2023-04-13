@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="Serial_Number" order="1" pattern="6ddMMyyyyHHmmss" policy="1" range="2" uid="e9024813-a5b7-4664-9f43-012d335fdec2" whenOutOfValues="CYCLE_VALUES"/>

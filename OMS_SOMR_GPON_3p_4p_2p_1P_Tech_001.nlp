@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=OMS_SOMR_GPON_3p_4p_2p_1P_Tech_001
+project.version=8.7
+project.original.version=8.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=8.0.2
+project.is-open-test-settings-after-upload=false
+project.id=9e3cbe0c-8e1e-40a8-9739-4f5268ab0cea
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/Rajeshvipparthi/PET_Maestro_2023_R323_SOMR

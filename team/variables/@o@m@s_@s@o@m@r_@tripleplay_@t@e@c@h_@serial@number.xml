@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="OMS_SOMR_Tripleplay_TECH_SerialNumber" order="1" pattern="milliseconds since the UNIX epoch" policy="1" range="2" uid="8703a1c6-2044-4bca-86b4-b75cf8de8cc9" whenOutOfValues="CYCLE_VALUES"/>

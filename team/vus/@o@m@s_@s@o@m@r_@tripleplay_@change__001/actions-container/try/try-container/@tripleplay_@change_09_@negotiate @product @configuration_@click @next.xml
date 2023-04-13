@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Tripleplay_Change_09_Negotiate Product Configuration_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="83ee4bdc-4979-47f6-b8cf-ef148eb64583" weightsEnabled="false">
+    <weighted-embedded-action uid="40c14fe6-4a1d-41e8-883b-e9cfd8379779"/>
+    <weighted-embedded-action uid="8eb92833-b3b3-46f6-87d6-953ddc346476"/>
+</basic-logical-action-container>

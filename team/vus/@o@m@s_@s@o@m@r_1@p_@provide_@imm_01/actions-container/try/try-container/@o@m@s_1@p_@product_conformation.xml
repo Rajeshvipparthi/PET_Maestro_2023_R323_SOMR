@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_1P_Product_conformation" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="c0f1e6b7-13c2-444c-aa2a-76fd06e11262" weightsEnabled="false">
+    <weighted-embedded-action uid="3fd3ee6f-21c9-4108-99e4-a90aade0b2a1"/>
+    <weighted-embedded-action uid="128565b9-2b78-4af2-bfa4-0407c9c0e7f7"/>
+</basic-logical-action-container>

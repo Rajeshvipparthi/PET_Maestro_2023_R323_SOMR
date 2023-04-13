@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_2P_Provide_Tech_10_Negotiate Product Configuration_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="2cb78219-b9d9-4f27-94fe-9773ebdca981" weightsEnabled="false">
+    <weighted-embedded-action uid="5f0bf559-26f6-43a8-bbd5-43026eea85a8"/>
+    <weighted-embedded-action uid="936c5df9-200e-481c-ba05-1d6b9815f730"/>
+</basic-logical-action-container>
